@@ -1,9 +1,9 @@
 export const personalInfo = {
-  name: "Nakul Shivakumar",
-  location: "Bengaluru, India",
-  email: "nakulshivakumar84@gmail.com",
-  github: "https://github.com/nshivakumar1",
-  linkedin: "https://www.linkedin.com/in/nakulshivakumar/",
+  name: "Nikhil Bhan",
+  location: "British Columbia, Canada",
+  email: "nikhilbhan@gmail.com@gmail.com",
+  github: "https://github.com/nikhilb-portfolio",
+  linkedin: "https://www.linkedin.com/in/nikhilbhan/",
 };
 
 export const workExperience = [
