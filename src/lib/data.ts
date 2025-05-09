@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "Nikhil Bhan",
   location: "British Columbia, Canada",
   email: "nikhilbhan@gmail.com@gmail.com",
-  github: "https://github.com/nikhilb-portfolio",
+  github: "https://github.com/btechnik",
   linkedin: "https://www.linkedin.com/in/nikhilbhan/",
 };
 
